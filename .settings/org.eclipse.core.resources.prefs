@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//resource/application.properties=UTF-8
+encoding//resource/configuration.properties=UTF-8
+encoding//resource/cookies.properties=UTF-8
+encoding//resource/data.properties=UTF-8
+encoding//resource/doctorlmElements.properties=UTF-8
+encoding//resource/homeElements.properties=UTF-8
+encoding//resource/loginElements.properties=UTF-8
+encoding//src/main/java=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
