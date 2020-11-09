@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">-->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="粉象APP-医药健康项目">
+    
+    <listeners>
+    	<listener class-name="org.uncommons.reportng.HTMLReporter" />
+	    <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+
+	    <listener class-name="doctorlm.MedicalHealth.util.RetryListener" />
+	    <listener class-name="doctorlm.MedicalHealth.util.TestngListener" />
+    </listeners>   
+      
+	<test name="测试首页搜索框" parallel="false">
+      <parameter name="searchKeys001" value="我就是个药"></parameter>
+   	  <parameter name="searchKeys002" value="感冒"></parameter>
+      <parameter name="searchKeys003" value="缬沙坦胶囊（千金湘江）"></parameter>
+   	  <parameter name="searchKeys004" value="盐酸二甲双胍片"></parameter>
+	  
+	  <classes>
+	     <!--局部参数，@name和@value必填，分别为参数名和参数值，如果参数名与全局参数一致，则覆盖全局参数取值-->
+	     <class name="doctorlm.MedicalHealth.test.SearchTest"/>
+	     <!--
+	     <methods>
+      		<include name="testNoResultSearch"/>
+      		<include name="testFuzzySearch"/>
+      		<include name="testAllNameSearch"/>
+      		<include name="testLeftFuzzySearch"/>
+      		<include name="deleteSearchHistory"/>
+	     </methods>
+	     -->
+	  </classes>
+	</test> <!-- 搜索功能测试 -->
+	
+	<test name="冒烟测试-购买流程" parallel="false">
+	  <classes>
+	     <class name="doctorlm.MedicalHealth.test.SmokeTest"/>
+	  </classes>
+	</test> <!-- 冒烟测试-购买流程 -->
+  
+</suite> <!-- Suite -->

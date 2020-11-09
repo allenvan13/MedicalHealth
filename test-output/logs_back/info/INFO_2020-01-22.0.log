@@ -1,0 +1,324 @@
+2020-01-22 09:36:09.615 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 09:36:09.618 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:36:10.324 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 09:36:10.535 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 09:39:55.661 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 09:39:55.665 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:39:56.172 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 09:39:56.654 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 09:40:06.655 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:45:24.127 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 09:45:24.131 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:45:24.577 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 09:45:24.593 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 09:45:25.687 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:45:25.910 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 09:45:26.933 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:45:27.073 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 09:45:27.999 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:45:28.142 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 09:45:29.072 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:45:29.265 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 09:45:30.297 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:45:30.452 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 09:48:39.122 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 09:48:39.127 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:48:39.693 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 09:48:39.708 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 09:48:39.893 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: orderNo]
+2020-01-22 09:48:40.009 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 09:48:50.010 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:48:50.256 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 09:50:48.147 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 09:50:48.150 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:50:48.671 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 09:50:48.687 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 09:50:48.851 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: orderNo]
+2020-01-22 09:50:48.972 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 09:50:58.974 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 09:50:59.242 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 10:00:18.516 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 10:00:18.520 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:00:19.055 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 10:00:19.071 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 10:00:19.226 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: orderNo]
+2020-01-22 10:00:19.346 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15795863850400001&fromList=1]
+2020-01-22 10:00:19.439 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 10:00:19.466 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 10:00:29.466 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:00:29.780 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 10:03:26.203 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 10:03:26.208 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:03:26.629 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 10:03:26.644 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 10:03:26.800 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: creatTime]
+2020-01-22 10:03:26.916 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15795863850400001&fromList=1]
+2020-01-22 10:03:27.005 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 10:03:27.031 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 10:03:37.042 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:03:37.313 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 10:05:07.309 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 10:05:07.313 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:05:07.749 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 10:05:07.765 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 10:05:07.921 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: creatTime]
+2020-01-22 10:05:08.037 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15795863850400001&fromList=1]
+2020-01-22 10:05:08.127 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 10:05:08.149 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 10:05:18.154 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:05:48.291 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 10:05:48.294 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:05:48.740 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 10:05:48.756 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 10:05:48.922 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: creatTime]
+2020-01-22 10:05:49.039 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15795863850400001&fromList=1]
+2020-01-22 10:05:49.140 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 10:05:49.154 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 10:05:59.155 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:05:59.425 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 10:11:37.777 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 10:11:37.781 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:11:38.322 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 10:11:40.173 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:11:41.938 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:11:43.610 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:11:45.306 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:11:46.999 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:11:48.720 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:12:32.488 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 10:12:32.493 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:12:32.933 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 10:12:32.948 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 10:12:33.109 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: creatTime]
+2020-01-22 10:12:33.228 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15795863850400001&fromList=1]
+2020-01-22 10:12:33.310 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 10:12:33.332 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 10:12:43.347 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 10:12:43.616 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 11:11:37.264 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 11:11:37.268 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:11:37.744 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 11:11:37.761 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/List]
+2020-01-22 11:11:37.957 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: creatTime]
+2020-01-22 11:11:38.078 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15795863850400001&fromList=1]
+2020-01-22 11:11:38.274 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 11:11:38.287 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 11:11:43.481 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 11:11:43.493 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: title]
+2020-01-22 11:11:43.559 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: page_header]
+2020-01-22 11:11:43.581 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[2]/div[2]]
+2020-01-22 11:11:43.604 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[3]/div[2]]
+2020-01-22 11:11:43.625 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: totalPriceByBottomNum]
+2020-01-22 11:11:43.649 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[1]/div[2]]
+2020-01-22 11:11:43.671 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: multiple_hidden]
+2020-01-22 11:11:43.682 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payTypeText]
+2020-01-22 11:11:43.693 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 11:11:53.694 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:11:54.046 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 11:12:31.837 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 11:12:31.840 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:12:32.314 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 11:12:32.330 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 11:12:37.462 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 11:12:37.475 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: title]
+2020-01-22 11:12:37.542 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: page_header]
+2020-01-22 11:12:37.566 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[2]/div[2]]
+2020-01-22 11:12:37.596 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[3]/div[2]]
+2020-01-22 11:12:37.618 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: totalPriceByBottomNum]
+2020-01-22 11:12:37.641 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[1]/div[2]]
+2020-01-22 11:12:37.664 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: multiple_hidden]
+2020-01-22 11:12:37.676 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payTypeText]
+2020-01-22 11:12:37.687 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 11:12:47.688 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:12:47.955 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 11:28:13.589 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 11:28:13.593 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:28:14.075 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 11:28:14.093 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 11:28:19.235 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 11:28:19.249 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: title]
+2020-01-22 11:28:19.318 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: page_header]
+2020-01-22 11:28:19.343 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[2]/div[2]]
+2020-01-22 11:28:19.369 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[3]/div[2]]
+2020-01-22 11:28:19.392 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: totalPriceByBottomNum]
+2020-01-22 11:28:19.416 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[1]/div[2]]
+2020-01-22 11:28:19.440 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: multiple_hidden]
+2020-01-22 11:28:19.462 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payTypeText]
+2020-01-22 11:28:19.475 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 11:28:29.477 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:28:29.767 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 11:29:06.683 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 11:29:06.686 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:29:07.133 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 11:29:07.150 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 11:29:12.306 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 11:29:12.316 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: title]
+2020-01-22 11:29:12.394 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: page_header]
+2020-01-22 11:29:12.425 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[2]/div[2]]
+2020-01-22 11:29:12.456 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[3]/div[2]]
+2020-01-22 11:29:12.488 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: totalPriceByBottomNum]
+2020-01-22 11:29:12.519 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[1]/div[2]]
+2020-01-22 11:29:12.550 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: multiple_hidden]
+2020-01-22 11:29:12.581 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payTypeText]
+2020-01-22 11:29:12.597 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 11:29:22.612 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:29:22.937 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 11:34:56.788 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 11:34:56.793 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:34:57.225 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 11:34:57.240 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 11:35:02.385 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 11:35:03.460 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:35:03.687 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 11:35:08.794 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 11:35:09.843 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:35:10.022 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 11:35:15.088 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 11:35:16.100 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:35:16.271 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 11:35:21.379 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 11:35:22.402 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 11:35:22.579 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 13:36:57.238 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 13:36:57.243 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 13:36:58.668 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 13:36:58.684 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 13:36:58.964 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: title]
+2020-01-22 13:36:59.032 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: page_header]
+2020-01-22 13:36:59.055 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[2]/div[2]]
+2020-01-22 13:36:59.079 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[3]/div[2]]
+2020-01-22 13:36:59.100 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: totalPriceByBottomNum]
+2020-01-22 13:36:59.123 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[1]/div[2]]
+2020-01-22 13:36:59.148 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: multiple_hidden]
+2020-01-22 13:36:59.173 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payTypeText]
+2020-01-22 13:36:59.187 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 13:37:09.187 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 13:37:09.472 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 13:37:39.770 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 13:37:39.774 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 13:37:40.203 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 13:37:40.218 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 13:37:40.429 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: title]
+2020-01-22 13:37:40.497 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: page_header]
+2020-01-22 13:37:40.524 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[2]/div[2]]
+2020-01-22 13:37:40.548 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[3]/div[2]]
+2020-01-22 13:37:40.573 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: totalPriceByBottomNum]
+2020-01-22 13:37:40.596 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[1]/div[2]]
+2020-01-22 13:37:40.621 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: multiple_hidden]
+2020-01-22 13:37:40.645 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payTypeText]
+2020-01-22 13:37:40.658 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 13:37:50.659 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 13:37:50.918 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 13:45:40.119 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 13:45:40.124 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 13:45:40.628 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 13:45:40.648 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 13:45:40.994 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: title]
+2020-01-22 13:45:41.070 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: page_header]
+2020-01-22 13:45:41.094 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[2]/div[2]]
+2020-01-22 13:45:41.119 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[3]/div[2]]
+2020-01-22 13:45:41.144 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: totalPriceByBottomNum]
+2020-01-22 13:45:41.168 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="content"]/div[9]/div[1]/div[2]]
+2020-01-22 13:45:41.191 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: multiple_hidden]
+2020-01-22 13:45:41.212 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payTypeText]
+2020-01-22 13:45:41.223 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 13:45:51.224 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 13:45:51.485 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 14:53:35.581 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 14:53:35.586 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 14:53:39.939 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 14:53:39.956 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 14:53:45.555 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num组元素 商品数量显示]
+2020-01-22 14:53:45.555 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 14:53:55.571 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 14:53:56.107 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 14:57:38.461 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 14:57:38.465 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 14:57:39.385 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 14:57:39.401 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 14:57:39.609 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num]
+2020-01-22 14:57:39.673 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 14:57:49.684 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 15:02:12.080 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 15:02:12.085 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 15:02:12.974 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 15:02:12.992 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 15:02:13.173 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num]
+2020-01-22 15:02:13.248 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: price]
+2020-01-22 15:02:13.307 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 15:02:23.308 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 15:02:23.608 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 15:03:45.503 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 15:03:45.506 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 15:03:46.013 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 15:03:46.029 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 15:03:46.176 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num]
+2020-01-22 15:03:46.248 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: price]
+2020-01-22 15:03:46.303 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 15:03:56.304 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 15:03:56.809 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 15:04:36.934 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 15:04:36.938 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 15:04:38.007 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 15:04:38.029 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/Business/Settlement?ProL=[{%22ProID%22:38727,%22Quantity%22:1},{%22ProID%22:38475,%22Quantity%22:1},{%22ProID%22:38451,%22Quantity%22:1},{%22ProID%22:38582,%22Quantity%22:1},{%22ProID%22:38906,%22Quantity%22:1}]&isCart=1]
+2020-01-22 15:04:38.255 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num]
+2020-01-22 15:04:38.334 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: price]
+2020-01-22 15:04:38.392 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 15:04:48.406 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 15:04:49.033 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 16:07:45.991 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 16:07:45.998 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 16:07:47.026 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 16:07:47.051 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15794153977820001&fromList=1]
+2020-01-22 16:07:47.249 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-name]
+2020-01-22 16:07:47.509 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num]
+2020-01-22 16:07:47.681 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-price-p]
+2020-01-22 16:07:47.864 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 16:07:47.896 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 16:07:57.910 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 16:07:58.167 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 16:12:13.827 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 16:12:13.831 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 16:12:14.342 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 16:12:14.357 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15794153977820001&fromList=1]
+2020-01-22 16:12:14.536 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-name]
+2020-01-22 16:12:14.712 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num]
+2020-01-22 16:12:14.894 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-price-p]
+2020-01-22 16:12:15.068 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 16:12:15.160 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: addressInfo-card-bottom]
+2020-01-22 16:12:15.183 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payname]
+2020-01-22 16:12:15.206 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: list-item-beizhu]
+2020-01-22 16:12:15.228 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="rContainer"]/div[9]/div[2]/div]
+2020-01-22 16:12:15.270 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 16:12:25.271 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 16:12:25.736 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 16:13:44.069 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 16:13:44.074 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 16:13:44.534 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 16:13:44.551 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15794153977820001&fromList=1]
+2020-01-22 16:13:44.730 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-name]
+2020-01-22 16:13:44.909 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num]
+2020-01-22 16:13:45.094 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-price-p]
+2020-01-22 16:13:45.271 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 16:13:45.363 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: addressInfo-card-bottom]
+2020-01-22 16:13:45.385 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payname]
+2020-01-22 16:13:45.408 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: list-item-beizhu]
+2020-01-22 16:13:45.432 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="rContainer"]/div[9]/div[2]/div]
+2020-01-22 16:13:45.469 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 16:13:55.469 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 16:13:55.725 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器
+2020-01-22 16:15:25.301 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开[AppChrome]浏览器
+2020-01-22 16:15:25.306 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 16:15:25.748 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 设置全局元素等待[5]秒
+2020-01-22 16:15:25.763 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/Order/MyOrder/Detail?orderNo=K15794153977820001&fromList=1]
+2020-01-22 16:15:25.936 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-name]
+2020-01-22 16:15:26.126 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-num]
+2020-01-22 16:15:26.313 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: drug-price-p]
+2020-01-22 16:15:26.480 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位组元素,通过[By.className: list-item]
+2020-01-22 16:15:26.566 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: addressInfo-card-bottom]
+2020-01-22 16:15:26.588 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: payname]
+2020-01-22 16:15:26.612 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.className: list-item-beizhu]
+2020-01-22 16:15:26.639 [main] INFO  doctorlm.MedicalHealth.page.PageBase - P:定位元素，通过[By.xpath: //*[@id="rContainer"]/div[9]/div[2]/div]
+2020-01-22 16:15:26.672 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 进程休眠[10]秒
+2020-01-22 16:15:36.673 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 打开网址[http://test.runtvip.com/?userinfo=8nrxdqggr4sW0ZTKr7fqEB6i8zZQ3RIwfhKN7M8ajgrQLvBtRgKLLC6bvgL/gi+/B41on+3jpBI/TzQXEq7rMVRyUAAmo/7tyfGt72EUZlPyFn5+z/XxQ8Y75LQx3XcTREPs5mrhAHm0uNJuzsQeQS11/hWdNelbggwRzgOusdjS4pKF0anA4A==]
+2020-01-22 16:15:36.980 [main] INFO  doctorlm.MedicalHealth.base.DriverBase - 关闭浏览器

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="测试首页搜索框"
+           tests="19"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="106.927">
+  <properties />
+  
+  
+            <testcase name="testRightFuzzySearch" time="3.476" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testRightFuzzySearch" time="4.132" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testNoResultSearch" time="3.798" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testLeftFuzzySearch" time="3.527" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testLeftFuzzySearch" time="3.475" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testLeftFuzzySearch" time="3.497" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testLeftFuzzySearch" time="3.547" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testLeftFuzzySearch" time="18.859" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testAllNameSearch" time="3.597" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testRightFuzzySearch" time="3.546" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testFuzzySearch" time="4.058" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testSearchAgain" time="22.310" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testLeftFuzzySearch" time="3.520" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testRightFuzzySearch" time="3.505" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testRightFuzzySearch" time="4.067" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="deleteSearchHistory" time="7.505" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testRightFuzzySearch" time="3.509" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testLeftFuzzySearch" time="3.492" classname="doctorlm.MedicalHealth.test.SearchTest" />
+                <testcase name="testRightFuzzySearch" time="3.507" classname="doctorlm.MedicalHealth.test.SearchTest" />
+      
+</testsuite>

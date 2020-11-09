@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="60 seconds" debug="false">  
+	
+	<!--定义日志输出目录-->
+    <property name="LOG_HOME" value="${user.dir}/test-output/logs_back"/>
+	<!--控制台日志  -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- 对日志进行格式化 -->
+		<encoder>
+			<!-- <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger -%msg%n</pattern> -->
+			<!--   <pattern>[%d{yyyy-MM-dd HH:mm:ss,SSS\} %-5p] %-20c - %m%n</pattern> -->
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+            <charset>UTF-8</charset>
+		</encoder>
+	</appender> 
+	
+	<!-- 输出error log 至统一日志文件中 -->
+    <appender name="ERRORAPPENDER" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME}/error/ERROR_%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <!-- 根据日志文件按天回滚，保存时间为30天，30天之前的都将被清理掉 -->
+            <maxHistory>30</maxHistory>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>20MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <!-- 只打印ERROR日志 -->
+            <level>ERROR</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+    </appender>
+    
+	<root level="DEBUG">  
+	   <appender-ref ref="STDOUT" />  
+	</root>
+      
+</configuration>

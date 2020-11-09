@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="冒烟测试-购买流程"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="128.832">
+  <properties />
+  
+            <testcase name="testToastMessage" time="0.0" classname="doctorlm.MedicalHealth.test.SmokeTest">
+          <skipped />
+    </testcase>
+            <testcase name="testBuyOneCFD" time="0.0" classname="doctorlm.MedicalHealth.test.SmokeTest">
+          <skipped />
+    </testcase>
+  
+            <testcase name="testBuyOneCFD" time="21.559" classname="doctorlm.MedicalHealth.test.SmokeTest" />
+                <testcase name="testToastMessage" time="55.472" classname="doctorlm.MedicalHealth.test.SmokeTest" />
+                <testcase name="testBuyOneGD" time="13.130" classname="doctorlm.MedicalHealth.test.SmokeTest" />
+      
+</testsuite>

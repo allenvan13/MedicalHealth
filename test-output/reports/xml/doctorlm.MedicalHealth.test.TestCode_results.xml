@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="测试首页遍历分类及分类中商品"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.912">
+  <properties />
+  
+  
+            <testcase name="test001" time="10.912" classname="doctorlm.MedicalHealth.test.TestCode" />
+      
+</testsuite>

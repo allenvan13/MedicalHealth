@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">-->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="false" name="粉象APP-医药健康项目">
+    
+    <listeners>
+    	<listener class-name="org.uncommons.reportng.HTMLReporter" />
+	    <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+
+	    <listener class-name="doctorlm.MedicalHealth.util.RetryListener" />
+	    <listener class-name="doctorlm.MedicalHealth.util.TestngListener" />
+    </listeners>     
+	<test name="测试首页遍历分类及分类中商品" parallel="false">
+
+	  <classes>
+	     <!--局部参数，@name和@value必填，分别为参数名和参数值，如果参数名与全局参数一致，则覆盖全局参数取值-->
+	     <class name="doctorlm.MedicalHealth.test.TestCode"/>
+	  </classes>
+	</test> <!-- 搜索功能测试 -->
+  
+</suite> <!-- Suite -->

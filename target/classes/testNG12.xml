@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="classes" name="Suite">
+  <listeners>
+    <listener class-name="doctorlm.MedicalHealth.util.TestngListenerScreenShot" />
+  </listeners>  
+  <test name="TestLogin" parallel="false">
+  
+    <classes>
+      <class name="doctorlm.MedicalHealth.testcase.LoginTest"/>
+      <parameter name="userName" value="allenvan12"> </parameter>
+      <parameter name="userPass" value="5201314">    </parameter>
+    </classes>
+    
+    <!--
+     <classes>
+      <class name="doctorlm.MedicalHealth.test.CourseBuyTest"/>
+    </classes>
+    -->
+  </test> 
+  
+</suite>
